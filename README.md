@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hello there 👋
+
+
+
+## Education 🎓
+
+-  **MAI** Bachelors degree in Applied Mathematics (2020-2024)
+-  **HSE** Masters degree in Software Engineering/DE (2024-present)
+
+## Contact me
+
+[Telegram](https://t.me/yaha_x)
+
+
+
 
 <!--
 **yahaxD/yahaxD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
